@@ -1,6 +1,8 @@
-import java.awt.Color;
+package lab5A;
 
 import edu.princeton.cs.introcs.Picture;
+
+import java.awt.*;
 
 public class BoundingBox {
 
